@@ -1,0 +1,28 @@
+
+		<ul id="navi">
+			<li><a href="index.php?nr=<? echo $rndnum ?>" id="home"></a></li>
+			<li class="dropdown" ><span id="photos"></span>
+				<ul>
+					<li><a href="akt01.php?nr=<? echo $rndnum ?>" id="dropdownlink">Akt</a></li>
+					<li><a href="gothic01.php?nr=<? echo $rndnum ?>" id="dropdownlink">Gothic</a></li>
+					<li><a href="mensch01.php?nr=<? echo $rndnum ?>" id="dropdownlink">Geschichte Mensch</a></li>
+					<li><a href="butterfly.php?nr=<? echo $rndnum ?>" id="dropdownlink">Projekt "Butterfly"</a></li>
+					<li><a href="http://artworks.kpunktwerk.com" target="_blank" id="dropdownlink">K.werk Artwork</a></li>
+				</ul>
+			</li>
+			<li class="dropdown1" ><span id="photograph"></span>
+				<ul>
+					<li><a href="steckbrief.php?nr=<? echo $rndnum ?>" id="dropdownlink">Steckbrief</a></li>
+					<li><a href="interview01.php?nr=<? echo $rndnum ?>" id="dropdownlink">Interview</a></li>
+					<li><a href="zusammenarbeit01.php?nr=<? echo $rndnum ?>" id="dropdownlink">Zusammenarbeiten</a></li>
+				</ul>
+			</li>
+			<li class="dropdown1" ><span id="contact"></span>
+				<ul>
+					<li><a href="bewerbung.php?nr=<? echo $rndnum ?>" id="dropdownlink">Bewerbung</a></li>
+					<li><a href="mail.php?nr=<? echo $rndnum ?>" id="dropdownlink">Mail</a></li>
+					<li><a href="impressum.php?nr=<? echo $rndnum ?>" id="dropdownlink">Impressum</a></li>
+					<li><a href="copyright.php?nr=<? echo $rndnum ?>" id="dropdownlink">Copyright</a></li>
+				</ul>
+			</li>
+		</ul>

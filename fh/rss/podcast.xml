@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>Der erste Podcast von Marcus Kauth</title>
+<link>http://www.kpunktwerk.com/fh/rss/podcast.xml</link>
+<description>Dies ist mein erster Podcast und für den habe ich mal ein paar Lieder von Marilyn Manson herausgekramt... Ich denke Gründe liegen auf der Hand ;-) </description>
+<copyright>Marcus Kauth, MMT 2009</copyright>
+<lastBuildDate>Wed,05May2010 19:45:00 GMT</lastBuildDate>
+
+<item>
+<title>Marilyn Manson - Arma-Godd__n-Motherf__kin-Geddon</title>
+<description>5. Titel des neuen Albums "The High End Of Low"</description>
+<link>http://www.kpunktwerk.com/fh/rss/manson01.mp3</link>
+<pubDate>Wed,05May2010 19:55:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Marilyn Manson - Running To The Edge Of The World</title>
+<description>7. Titel des neuen Albums "The High End Of Low"</description>
+<link>http://www.kpunktwerk.com/fh/rss/manson02.mp3</link>
+<pubDate>Wed,05May2010 19:55:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Marilyn Manson - Unkillable Monster</title>
+<description>11. Titel des neuen Albums "The High End Of Low"</description>
+<link>http://www.kpunktwerk.com/fh/rss/manson03.mp3</link>
+<pubDate>Wed,05May2010 19:55:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Marilyn Manson - We´re From America</title>
+<description>12. Titel des neuen Albums "The High End Of Low"</description>
+<link>http://www.kpunktwerk.com/fh/rss/manson04.mp3</link>
+<pubDate>Wed,05May2010 19:55:00 GMT</pubDate>
+</item>
+
+</channel>
+</rss>
